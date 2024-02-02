@@ -3,9 +3,8 @@
 A [Singer.io](https://singer.io) target for [Apache Cassandra](http://cassandra.apache.org/),
 
 ## Usage
-- In meltano project add this project 
-- In side your meltano.yaml 
-- Exclude schema ignore schemas & Exclude tables ignore tables
+- In meltano project add this as a loader
+- Exclude schema ignore schemas & Exclude tables ignore tables (meltano.yaml)
 ```
 exclude_schemas:
 - one

@@ -1,0 +1,7 @@
+{
+  "username": "cassandra",
+  "password": "cassandra",
+  "contact_points": ["localhost"],
+  "start_date": "2023-01-01T00:00:00Z",
+  "keyspace": "test"
+}
